@@ -6,6 +6,8 @@ A fully functional countdown timer with hours, minutes,
 and seconds input. Supports start, pause, resume, and stop 
 functionality with accurate time tracking.
 
+![Timer App Screenshot](image.png)
+
 ## How to run
 1. Install PyQt5: pip install PyQt5
 2. Run: python timer.py
